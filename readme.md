@@ -1,4 +1,4 @@
-#REST Client Visual Studio Code használata
+# REST Client Visual Studio Code használata
 
 1. Első lépésként létrehoztam a Visual Code Studio-ban egy html filet.
 2. A file első sorában meg kell adni hogy milyen kérést szeretnénk küldeni aztán után egy szóközzel elválasztva megadjuk az URL linket amire a küldést szeretnénk elvégezni.
