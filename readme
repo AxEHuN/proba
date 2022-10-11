@@ -1,0 +1,6 @@
+<h1>REST Client Visual Studio Code használata</h1>
+
+<p><strong>1.</strong>.Első lépésként létrehoztam a Visual Code Studio-ban egy html filet.<br><br></p>
+<p><strong>2.</strong>.A file első sorában meg kell adni hogy milyen kérést szeretnénk küldeni,<br> 
+aztán után egy szóközzel elválasztva megadjuk az URI linket amire a küldést szeretnénk elvégezni.</p>
+![1](first.png)
